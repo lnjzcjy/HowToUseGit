@@ -4,3 +4,4 @@ step3 do some change
 step4 git add *
 step5 git commit -m "commont"
 step6 git push origin master
+MUST in the dir of clone 
